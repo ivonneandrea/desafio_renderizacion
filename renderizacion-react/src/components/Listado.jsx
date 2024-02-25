@@ -35,7 +35,7 @@ const Listado = ({ data, setData, filteredData, setFilteredData}) => {
 
 return (
     <>
-    <section className="table-responsive listSection">
+    <section className="table-responsive SectionLista">
                 <Table
                     className="table table-secondary table-striped table-bordered align-middle">
                     <thead>
